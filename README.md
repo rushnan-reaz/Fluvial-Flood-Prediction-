@@ -1,2 +1,2 @@
-# cse-2100-project
+# Fluvial Flood Prediction
  This was an academic project for the course CSE-2100
